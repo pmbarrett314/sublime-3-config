@@ -1,3 +1,5 @@
 *
 !.gitignore
 !README.md
+!User
+!*.sublime-settings
